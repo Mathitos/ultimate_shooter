@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\ultimate_shooter\\ultimate_shooter.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\ultimate_shootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\unrealeditor\\development\\ultimate_shooter\\definitions.ultimate_shooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

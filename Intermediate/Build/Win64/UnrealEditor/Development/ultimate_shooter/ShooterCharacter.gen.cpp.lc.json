@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\ultimate_shooter\\shootercharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\ultimate_shootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\unrealeditor\\development\\ultimate_shooter\\definitions.ultimate_shooter.h",
+            "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\source\\ultimate_shooter\\shootercharacter.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\ultimate_shooter\\shootercharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

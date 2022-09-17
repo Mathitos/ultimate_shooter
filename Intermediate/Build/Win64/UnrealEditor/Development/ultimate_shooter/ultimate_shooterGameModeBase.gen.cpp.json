@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\ultimate_shooter\\ultimate_shootergamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\ultimate_shootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\unrealeditor\\development\\ultimate_shooter\\definitions.ultimate_shooter.h",
+            "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\source\\ultimate_shooter\\ultimate_shootergamemodebase.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\mathe\\documents\\unreal projects\\ultimate_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\ultimate_shooter\\ultimate_shootergamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

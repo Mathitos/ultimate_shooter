@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ultimate_shooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mathe\Documents\Unreal Projects\ultimate_shooter\Intermediate\Build\Win64\ultimate_shooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mathe\Documents\Unreal Projects\ultimate_shooter\Intermediate\Build\Win64\UnrealEditor\Development\ultimate_shooter\ShooterCharacter.cpp.obj"
+"C:\Users\mathe\Documents\Unreal Projects\ultimate_shooter\Intermediate\Build\Win64\UnrealEditor\Development\ultimate_shooter\ultimate_shooter.cpp.obj"
+"C:\Users\mathe\Documents\Unreal Projects\ultimate_shooter\Intermediate\Build\Win64\UnrealEditor\Development\ultimate_shooter\ultimate_shooterGameModeBase.cpp.obj"
+"C:\Users\mathe\Documents\Unreal Projects\ultimate_shooter\Intermediate\Build\Win64\UnrealEditor\Development\ultimate_shooter\ShooterCharacter.gen.cpp.obj"
+"C:\Users\mathe\Documents\Unreal Projects\ultimate_shooter\Intermediate\Build\Win64\UnrealEditor\Development\ultimate_shooter\ultimate_shooter.init.gen.cpp.obj"
+"C:\Users\mathe\Documents\Unreal Projects\ultimate_shooter\Intermediate\Build\Win64\UnrealEditor\Development\ultimate_shooter\ultimate_shooterGameModeBase.gen.cpp.obj"
+"C:\Users\mathe\Documents\Unreal Projects\ultimate_shooter\Intermediate\Build\Win64\UnrealEditor\Development\ultimate_shooter\Default.rc2.res"
+/OUT:"C:\Users\mathe\Documents\Unreal Projects\ultimate_shooter\Intermediate\Build\Win64\UnrealEditor\Development\ultimate_shooter\UnrealEditor-ultimate_shooter.lib"
